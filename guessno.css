@@ -1,0 +1,36 @@
+.bg-container{
+margin-bottom:50px;
+
+}
+.guess-game-img{
+    height:300px;
+    width:600px;
+}
+.heading{
+    font-family: "Roboto";
+    color: #323f4b;
+}
+.bg2-container{
+    background-color:#246db6;
+    height:100vh;
+}
+.heading-2{
+    color:white;
+}
+.guess-number-image{
+    height:100px;
+}
+.text-box{
+    height:50px;
+    width:250px;
+    font-size:30px;
+}
+.button1{
+color:white;
+height:50px;
+width:150px;
+margin-top:20px;
+}
+.gameresult{
+    color:white;
+}
